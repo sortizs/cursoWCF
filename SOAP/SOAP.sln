@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacagroup.Comercial.Credits.Domain", "Pacagroup.Comercial.Credits.Domain\Pacagroup.Comercial.Credits.Domain.csproj", "{15494A63-FB85-400F-B041-A97B573AAF8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AppLayer", "AppLayer", "{20F495D2-D146-4FD4-8EA1-039128584259}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DomainLayer", "DomainLayer", "{F9A25C51-1BF3-48BF-8E89-B57CDF3253E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InfrastructureLayer", "InfrastructureLayer", "{FEE8DF6B-D095-423F-A3E1-C7159466A8D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15494A63-FB85-400F-B041-A97B573AAF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15494A63-FB85-400F-B041-A97B573AAF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15494A63-FB85-400F-B041-A97B573AAF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15494A63-FB85-400F-B041-A97B573AAF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{15494A63-FB85-400F-B041-A97B573AAF8E} = {F9A25C51-1BF3-48BF-8E89-B57CDF3253E1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DE283CB-8AB3-4533-90FA-95B68E73CA77}
+	EndGlobalSection
+EndGlobal
